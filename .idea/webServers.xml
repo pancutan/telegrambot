@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6d7de742-eb1f-42e5-8eba-acc75a3b437a" name="Front 2" url="http://10.1.11.52">
+        <fileTransfer host="10.1.11.52" port="22" rootFolder="/home/salonso" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="fc5f71a1-68fe-4d03-9f16-eaa9dc13e478" name="scripts2" url="http://10.1.11.200">
+        <fileTransfer host="10.1.11.200" port="22" rootFolder="/home/salonso" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2b616486-70a9-47b6-967e-2eb939935ede" name="procesar informes.sqlite" url="http://10.1.11.53">
+        <fileTransfer host="10.1.11.53" port="22" rootFolder="/home/salonso" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

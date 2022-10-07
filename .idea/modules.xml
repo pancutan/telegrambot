@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TelegramBot.iml" filepath="$PROJECT_DIR$/.idea/TelegramBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../controlNodos/balancearNodos/.idea/balancearNodos.iml" filepath="$PROJECT_DIR$/../controlNodos/balancearNodos/.idea/balancearNodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../informes-benchmarking/.idea/informes-benchmarking.iml" filepath="$PROJECT_DIR$/../informes-benchmarking/.idea/informes-benchmarking.iml" />
+    </modules>
+  </component>
+</project>
